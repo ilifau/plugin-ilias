@@ -3,23 +3,23 @@
 //
 
 <!-- language file start -->
-obj_xesr#:#edu-sharing-Ressource
-objs_xesr#:#edu-sharing-Ressourcen
+obj_xesr#:#SMART vhb-Einheit
+objs_xesr#:#SMART vhb-Einheiten
 obj_xesr_duplicate#:#Kopieren
-objs_xesr_duplicate#:#Kopiere edu-sharing-Ressource
-obj_xesr_select#:#edu-sharing-Ressource auswählen
-xesr_add#:#edu-sharing-Ressource hinzufügen
-xesr_new#:#Neue edu-sharing-Ressource
-xesr_read#:#Lesezugriff auf edu-sharing-Ressource
-xesr_write#:#Schreibzugriff auf edu-sharing-Ressource
-xesr_delete#:#edu-sharing-Ressource löschen
-xesr_visible#:#edu-sharing-Ressource ist sichtbar
+objs_xesr_duplicate#:#Kopiere SMART vhb-Einheit
+obj_xesr_select#:#SMART vhb-Einheit auswählen
+xesr_add#:#SMART vhb-Einheit hinzufügen
+xesr_new#:#Neue SMART vhb-Einheit
+xesr_read#:#Lesezugriff auf SMART vhb-Einheit
+xesr_write#:#Schreibzugriff auf SMART vhb-Einheit
+xesr_delete#:#SMART vhb-Einheit löschen
+xesr_visible#:#SMART vhb-Einheit ist sichtbar
 xesr_edit_permission#:#Rechteeinstellungen ändern
-crs_create_xesr#:#edu-sharing-Ressource erstellen
-grp_create_xesr#:#edu-sharing-Ressource erstellen
-fold_create_xesr#:#edu-sharing-Ressource erstellen
-root_create_xesr#:#edu-sharing-Ressource erstellen
-cat_create_xesr#:#edu-sharing-Ressource erstellen
+crs_create_xesr#:#SMART vhb-Einheit erstellen
+grp_create_xesr#:#SMART vhb-Einheit erstellen
+fold_create_xesr#:#SMART vhb-Einheit erstellen
+root_create_xesr#:#SMART vhb-Einheit erstellen
+cat_create_xesr#:#SMART vhb-Einheit erstellen
 content#:#Inhalt
 properties#:#Einstellungen
 edit_properties#:#Einstellungen ändern
@@ -32,7 +32,7 @@ cancel#:#Abbrechen
 edit#:#Editieren
 status#:#Status
 offline#:#Offline
-select_resource#:#Ressource auswählen
+select_resource#:#Einheit auswählen
 browse#:#Browsen
 search#:#Suchen
 uri#:#URI
@@ -47,7 +47,7 @@ no#:#Nein
 save#:#Speichern
 settings#:#Einstellungen
 show_configuration#:#Konfiguration anzeigen
-not_usable_no_course#:#edu-sharing Ressourcen können nur innerhalb von Kursen genutzt werden. Dieses Objekt befindet sich zur Zeit nicht in einem Kurs.
+not_usable_no_course#:#SMART vhb-Einheitn können nur innerhalb von Kursen genutzt werden. Dieses Objekt befindet sich zur Zeit nicht in einem Kurs.
 usage_not_registered#:#Die Nutzung des Objektes innerhalb dieses Kurses wurde noch nicht registriert.
 register_usage#:#Nutzung registrieren
 upload#:#Hochladen
@@ -115,6 +115,6 @@ metadata_endpoint#:# Metadata endpoint
 metadata_endpoint_info#:#Beispiel: http://edu-sharing-server/edu-sharing/metadata?format=lms
 metadata_import#:#Metadaten importieren
 object_version_use_exact#:#Kein Update dieser Version
-object_version_use_exact_info#:#Die Ressource verbliebe bei Version
-not_visible_now#:#Die Ressource kann vorübergehend nicht angezeigt werden.
-no_resource_set#:#Keine Ressource wurde ausgewählt. Die Einstellungen sollten bei diesem Objekt überprüft werden.
+object_version_use_exact_info#:#Die Einheit verbliebe bei Version
+not_visible_now#:#Die Einheit kann vorübergehend nicht angezeigt werden.
+no_resource_set#:#Keine Einheit wurde ausgewählt. Die Einstellungen sollten bei diesem Objekt überprüft werden.
